@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wlad1453. My real name is Vladimir Filippov
-- 👀 I’m interested in elecrtonics, microprocessors, programming
-- 🌱 I’m currently learning C++, php, JavaScript
+- 👀 I’m interested in elecrtonics, microprocessors, programming, WEB-technologies
+- 🌱 I’m currently learning C++, php, JavaScript, Java
 - 💞️ I’m looking to collaborate on the development of microprocessor systems, controlling and measurement systems
 - 📫 How to reach me: write to wlad1453@gmail.com
 
